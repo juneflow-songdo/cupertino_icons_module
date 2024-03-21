@@ -1,0 +1,25 @@
+name: cupertino_icons_module
+description: "cupertino_icons juneflow module."
+#publish_to: 'none'
+#repository: https://github.com/melodysdreamj/juneflow
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  go_router: ^13.2.0
+  june_flow_util:
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
