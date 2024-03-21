@@ -3,7 +3,7 @@ description: "cupertino_icons juneflow module."
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/cupertino_icons_module
 
-version: 1.0.0+5
+version: 1.0.0+8
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
