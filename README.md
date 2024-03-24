@@ -1,5 +1,10 @@
 [![pub package](https://img.shields.io/pub/v/cupertino_icons_module.svg)](https://pub.dartlang.org/packages/cupertino_icons_module)
 
+<p>
+  <a href="https://github.com/melodysdreamj/juneflow">Juneflow</a> •
+  <a href="https://doc.juneflow.org/get-started">Documentation</a>
+</p>
+
 # cupertino_icons_module
 This module is a module of the juneflow framework about the cupertino_icons package.
 
