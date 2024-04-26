@@ -3,7 +3,7 @@ description: "This module is a module of the juneflow framework about the cupert
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/cupertino_icons_module
 
-version: 1.0.1
+version: 1.0.2
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -13,8 +13,8 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  go_router: ^13.2.0
-  cupertino_icons: ^1.0.6 #@add
+  go_router:
+  cupertino_icons:  #@add
   june_flow_util:
 
 
